@@ -1,2 +1,2 @@
 #!/bin/bash
-mkvdir my_first_directory tmp
+mkvdir /tmp/my_first_directory/
